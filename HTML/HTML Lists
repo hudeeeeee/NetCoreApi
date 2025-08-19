@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Thông tin sinh viên</h2>
+
+<ul>
+  <li>Đỗ Huy Đạt</li>
+  <li>2221050287</li>
+  <li>K67</li>
+</ul>  
+
+<h2>Quê quán</h2>
+
+<ol>
+  <li>Hà Nội</li>
+  <li>Quận Nam Từ Liêm</li>
+  <li>Mễ Trì</li>
+</ol> 
+
+</body>
+</html>
+
