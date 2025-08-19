@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Đỗ Huy Đạt</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Bấm để hiển thị thời gian.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+
