@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="city">
+<h2>Đỗ Huy Đạt</h2>
+<p>2221050287.</p>
+</div> 
+
+<div class="city">
+<h2>Đại học</h2>
+<p>K67.</p>
+</div>
+
+<div class="city">
+<h2>Thành phố</h2>
+<p>Hà Nội.</p>
+</div>
+
+</body>
+</html>
+
