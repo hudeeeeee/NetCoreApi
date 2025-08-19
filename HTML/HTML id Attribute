@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
+
+<h2>Đỗ Huy Đạt</h2>
+<p>2221050287</p>
+
+<h1 id="myHeader">k67</h1>
+
+</body>
+</html>
+
