@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Net_Core_API\\PROJECT_PTPMQL\\PROJECT_PTPMQL.csproj": {}
+    "D:\\Net_Core_API\\PROJECT_MVC\\PROJECT_PTPMQL.csproj": {}
   },
   "projects": {
-    "D:\\Net_Core_API\\PROJECT_PTPMQL\\PROJECT_PTPMQL.csproj": {
+    "D:\\Net_Core_API\\PROJECT_MVC\\PROJECT_PTPMQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net_Core_API\\PROJECT_PTPMQL\\PROJECT_PTPMQL.csproj",
+        "projectUniqueName": "D:\\Net_Core_API\\PROJECT_MVC\\PROJECT_PTPMQL.csproj",
         "projectName": "PROJECT_PTPMQL",
-        "projectPath": "D:\\Net_Core_API\\PROJECT_PTPMQL\\PROJECT_PTPMQL.csproj",
+        "projectPath": "D:\\Net_Core_API\\PROJECT_MVC\\PROJECT_PTPMQL.csproj",
         "packagesPath": "C:\\Users\\dat14\\.nuget\\packages\\",
-        "outputPath": "D:\\Net_Core_API\\PROJECT_PTPMQL\\obj\\",
+        "outputPath": "D:\\Net_Core_API\\PROJECT_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dat14\\AppData\\Roaming\\NuGet\\NuGet.Config"
