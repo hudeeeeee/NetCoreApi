@@ -1,8 +1,8 @@
-namespace PROJECT_MVC.Controllers
+namespace MVC.Controllers
 {
 
     using Microsoft.AspNetCore.Mvc;
-    using PROJECT_MVC.Models;
+    using MVC.Models;
     public class PersonController : Controller
     {
         public IActionResult Index()

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net_Core_API\\MVC\\PROJECT_PTPMQL.csproj",
-      "projectName": "PROJECT_PTPMQL",
-      "projectPath": "D:\\Net_Core_API\\MVC\\PROJECT_PTPMQL.csproj",
+      "projectUniqueName": "D:\\Net_Core_API\\MVC\\MVC.csproj",
+      "projectName": "MVC",
+      "projectPath": "D:\\Net_Core_API\\MVC\\MVC.csproj",
       "packagesPath": "C:\\Users\\dat14\\.nuget\\packages\\",
       "outputPath": "D:\\Net_Core_API\\MVC\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using PROJECT_PTPMQL.Models;
+using MVC.Models;
 
-namespace PROJECT_PTPMQL.Controllers;
+namespace MVC.Controllers;
 
 public class HomeController : Controller
 {

@@ -1,4 +1,4 @@
-namespace PROJECT_MVC.Models
+namespace MVC.Models
 {
     public class Person
     {
