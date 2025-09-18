@@ -6,9 +6,8 @@ namespace MVC.Models
     public class Person
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get;  set;}
+        public string? PersonId { get;  set;}
         public string FullName { get; set; } = default!;
-        public int NamSinh { get; set; } = default!;
+        public string  Address { get; set; } = default!;
     }
 }

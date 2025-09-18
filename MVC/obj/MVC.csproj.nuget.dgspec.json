@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Net_Core_API\\MVC\\MVC.csproj": {}
+    "D:\\Net_Core_API\\mvc\\MVC.csproj": {}
   },
   "projects": {
-    "D:\\Net_Core_API\\MVC\\MVC.csproj": {
+    "D:\\Net_Core_API\\mvc\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net_Core_API\\MVC\\MVC.csproj",
+        "projectUniqueName": "D:\\Net_Core_API\\mvc\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "D:\\Net_Core_API\\MVC\\MVC.csproj",
+        "projectPath": "D:\\Net_Core_API\\mvc\\MVC.csproj",
         "packagesPath": "C:\\Users\\dat14\\.nuget\\packages\\",
-        "outputPath": "D:\\Net_Core_API\\MVC\\obj\\",
+        "outputPath": "D:\\Net_Core_API\\mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dat14\\AppData\\Roaming\\NuGet\\NuGet.Config"

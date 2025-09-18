@@ -19,7 +19,8 @@ namespace MvcMovie.Controllers
         // GET: Person
         public async Task<IActionResult> Index()   // THÊM
         {
-            return View(await _context.Person.ToListAsync());
+            var model = await _context.Person.ToListAsync();
+            return View(model);
         }
 
         // GET: Person/Create
@@ -45,7 +46,7 @@ namespace MvcMovie.Controllers
         // GET: Person/Edit/5
         public async Task<IActionResult> Edit(string id)   // THÊM
         {
-            if (id == null)
+            if (id == null || _context.Person == null)
             {
                 return NotFound();
             }
@@ -94,7 +95,7 @@ namespace MvcMovie.Controllers
         // GET: Person/Delete/5
         public async Task<IActionResult> Delete(string id)   // THÊM
         {
-            if (id == null)
+            if (id == null || _context.Person == null)
             {
                 return NotFound();
             }
@@ -114,18 +115,22 @@ namespace MvcMovie.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(string id)   // THÊM
         {
+            if (_context.Person == null)
+            {
+                return Problem("Entity set 'ApplicationDbContext.Person' is null");
+            }
             var person = await _context.Person.FindAsync(id);
             if (person != null)
             {
                 _context.Person.Remove(person);
-                await _context.SaveChangesAsync();
             }
+
+            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-
-        private bool PersonExists(string id)   // THÊM
+        private bool PersonExists(string id)
         {
-            return _context.Person.Any(e => e.PersonId == id);
+            return (_context.Person?.Any(e => e.PersonId == id)).GetValueOrDefault();
         }
     }
 }

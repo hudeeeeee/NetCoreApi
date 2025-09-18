@@ -1,6 +1,4 @@
-using System.IO;
 using Microsoft.EntityFrameworkCore;
-using MVC.Data;
 using MVC.Models;
 
 namespace MVC.Data

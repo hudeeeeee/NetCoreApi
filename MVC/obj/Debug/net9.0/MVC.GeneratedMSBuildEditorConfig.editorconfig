@@ -17,69 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC
 build_property.RootNamespace = MVC
-build_property.ProjectDir = D:\Net_Core_API\MVC\
+build_property.ProjectDir = D:\Net_Core_API\mvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Net_Core_API\MVC
+build_property.MSBuildProjectDirectory = D:\Net_Core_API\mvc
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Net_Core_API/MVC/Views/Bai1/Index.cshtml]
+[D:/Net_Core_API/mvc/Views/Bai1/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpMVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Bai2/Index.cshtml]
+[D:/Net_Core_API/mvc/Views/Bai2/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpMlxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Bai3/Index.cshtml]
+[D:/Net_Core_API/mvc/Views/Bai3/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpM1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Home/Index.cshtml]
+[D:/Net_Core_API/mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Home/Privacy.cshtml]
+[D:/Net_Core_API/mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Person/Creat.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0LmNzaHRtbA==
+[D:/Net_Core_API/mvc/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Person/Delete.cshtml]
+[D:/Net_Core_API/mvc/Views/Person/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Person/Edit.cshtml]
+[D:/Net_Core_API/mvc/Views/Person/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Person/Index.cshtml]
+[D:/Net_Core_API/mvc/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Shared/Error.cshtml]
+[D:/Net_Core_API/mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Net_Core_API/mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/_ViewImports.cshtml]
+[D:/Net_Core_API/mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/_ViewStart.cshtml]
+[D:/Net_Core_API/mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Net_Core_API/MVC/Views/Shared/_Layout.cshtml]
+[D:/Net_Core_API/mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e
