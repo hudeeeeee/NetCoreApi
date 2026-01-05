@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Upload Excel";
+}
+
+<h2>Upload danh sách Person từ Excel</h2>
+
+<form asp-action="Upload" asp-controller="Person" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label for="file">Chọn file Excel (.xls hoặc .xlsx)</label>
+        <input type="file" name="file" class="form-control" required />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Tải lên</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="text-danger mt-2">
+        @Html.ValidationSummary(true)
+    </div>
+}

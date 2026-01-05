@@ -1,4 +1,6 @@
 @model IEnumerable<MVC.Models.Person>
+@using X.PagedList.Mvc.Core;
+@using X.PagedList;
 
 @{
     ViewData["Title"] = "Index";
@@ -18,7 +20,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.Address)
             </th>
-            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -38,3 +39,9 @@
 }
     </tbody>
 </table>
+
+@Html.PagedListPager((IPagedList) Model, page => Url.Action("Index", new {page = page}),
+    new X.PagedList.Mvc.Core.PagedListRenderOptions { LiElementClasses = new string[] {"page-item"},
+        PageClasses = new string[] {"page-link"} })
+
+
